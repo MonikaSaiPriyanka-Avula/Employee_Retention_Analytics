@@ -1,0 +1,1 @@
+The project uses the database tables already populated in MySQL. This folder is kept for optional generator/validation scripts from your existing project. Do not run a CSV loader until you have backed up the database and confirmed whether the generated CSVs need re-importing.
